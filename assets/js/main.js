@@ -197,7 +197,7 @@ sr.reveal(`.skills__content`, {
   distance: "30px",
 });
 
-sr.reveal(`.services__card`, {
+sr.reveal(`.services__title, services__button`, {
   delay: 100,
   scale: 0.9,
   origin: "top",
