@@ -159,13 +159,6 @@ sr.reveal(`.nav__menu`, {
   distance: "300px",
 });
 
-sr.reveal(`.nav__logo, .change-theme-button`, {
-  delay: 100,
-  scale: 0.9,
-  origin: "top",
-  distance: "100px",
-});
-
 sr.reveal(`.home__data`);
 sr.reveal(`.home__handle`, {
   delay: 100,
